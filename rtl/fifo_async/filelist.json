@@ -1,0 +1,9 @@
+{
+  "top": "fifo_async",
+  "files": [
+    "fifo_async.sv",
+    "../sync_ram_1r1w/sync_ram_1r1w.sv",
+    "../bin2gray/bin2gray.sv",
+    "../sync2/sync2.sv"
+  ]
+}
