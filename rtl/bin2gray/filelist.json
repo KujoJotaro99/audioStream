@@ -1,0 +1,10 @@
+{
+  "top": "bin2gray",
+  "files": [
+    "bin2gray.sv"
+  ],
+  "test_top": "bin2gray_test",
+  "test_files": [
+    "bin2gray_test.sv"
+  ]
+}
